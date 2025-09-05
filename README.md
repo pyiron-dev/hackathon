@@ -1,6 +1,6 @@
 # github.com/pyiron-dev/hackathon
 
-Jupyterhub: [https://notebooks.mpcdf.mpg.de/susmat-pyiron-core](https://notebooks.mpcdf.mpg.de/susmat-pyiron-core) 
+Jupyterhub: [https://notebooks.mpcdf.mpg.de/workflows](https://notebooks.mpcdf.mpg.de/workflows)
 
 Alternative: 
 * mybinder: [https://notebooks.mpcdf.mpg.de/binder/v2/gl](https://notebooks.mpcdf.mpg.de/binder/v2/gl/pyiron%2Fpyiron_core_tutorial/HEAD)
