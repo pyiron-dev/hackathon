@@ -1,7 +1,4 @@
 # github.com/pyiron-dev/hackathon
 
-Jupyterhub: [https://notebooks.mpcdf.mpg.de/workflows](https://notebooks.mpcdf.mpg.de/workflows)
-
-Alternative: 
-* mybinder: [https://notebooks.mpcdf.mpg.de/binder/v2/gl](https://notebooks.mpcdf.mpg.de/binder/v2/gl/pyiron%2Fpyiron_core_tutorial/HEAD)
-* Repository: [https://gitlab.mpcdf.mpg.de/pyiron/pyiron_core_tutorial/](https://gitlab.mpcdf.mpg.de/pyiron/pyiron_core_tutorial/-/tree/master)
+* mybinder: [https://notebooks.mpcdf.mpg.de/binder/v2/gl](https://notebooks.mpcdf.mpg.de/binder/v2/gl/pyiron%2F2025-ipam-hackathon/HEAD)
+* Repository: [https://gitlab.mpcdf.mpg.de/pyiron/2025-ipam-hackathon](https://gitlab.mpcdf.mpg.de/pyiron/2025-ipam-hackathon/-/tree/master)
